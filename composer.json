@@ -1,16 +1,10 @@
 {
-    "name": "emico/magento1-tweakwise",
+    "name": "tweakwise/magento1-tweakwise",
     "type": "magento-module",
     "license": "OSL-3.0",
     "description": "Magento 1 tweakwise frontend support",
-    "authors": [
-        {
-            "name":"Emico",
-            "email":"info@emico.nl"
-        }
-    ],
     "require": {
-        "emico/magento1-tweakwise-export": ">=3.0.0"
+        "tweakwise/magento1-tweakwise-export": ">=3.0.0"
     },
     "extra": {
         "map": [
