@@ -18,6 +18,6 @@
         ]
     },
     "suggest": {
-        "emico/magento1-attribute-landing": "Landingspages compatible with Tweakwise navigator"
+        "tweakwise/magento1-attribute-landing": "Landingspages compatible with Tweakwise navigator"
     }
 }
